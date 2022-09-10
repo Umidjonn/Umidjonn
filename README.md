@@ -1,6 +1,5 @@
 ### Hi there 👋
-my name is Umid
-i am frontend dev
+✨
 
 <!--
 **Umidjonn/Umidjonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
