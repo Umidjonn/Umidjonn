@@ -1,3 +1,2 @@
-Hi there 👋
-My name is Umid. I am Fronted Developer. I am from Uzbekistan. 
-![image](https://user-images.githubusercontent.com/77495769/219784932-738cac64-7dec-4440-9d83-1daa62682583.png)
+![image](https://user-images.githubusercontent.com/77495769/219785317-ee147224-0a9f-41ef-8332-81f588137c2b.png)
+<h1>Hi there 👋</h1>
